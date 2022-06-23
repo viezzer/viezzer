@@ -18,5 +18,6 @@
   
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://instagram.com/eduviezzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduviezzer" height="30" width="40" /></a>
+  <a hre="https://www.linkedin.com/in/eduardo-ot%C3%A1vio-viezzer-351247121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo otávio viezzer" height="30" width="40" /></a>
+  <a href="https://instagram.com/eduviezzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduviezzer" height="30" width="40" /></a>
 </p>
