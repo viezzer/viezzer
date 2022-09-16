@@ -1,10 +1,4 @@
-<h1 align="left">Olá, sou o Eduardo!</h1>
-<h3 align="left">Sou Desenvolvedor full stack a 1 ano.</h3>
-
-- 🌱 Atualmente, estou estudando **Laravel, VueJS e Docker.**
-
-- 📫 E-mail **eduviezzer@gmail.com**
-
+<h1 align="left">Olá!</h1>
 <hr>
 
 <div>
