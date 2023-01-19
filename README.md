@@ -1,5 +1,9 @@
 <h1 align="left">Olá!</h1>
-<hr>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viezzer&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viezzer&layout=compact&langs_count=5&theme=synthwave&locale=pt-BR"/>
+</div>
 
 <h3 align="left">Linguagens e ferramentas que utilizo:</h3>
 <p align="left"> 
