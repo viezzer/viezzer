@@ -1,5 +1,5 @@
 <h1 align="center">Helo! I'm Eduardo</h1>
-<h3 align="center">I've been developing fullstack apps since 2020</h3>
+<h3 align="center">I've been developing software since 2020</h3>
 
 - 📫 E-mail **eduviezzer@gmail.com**
 
