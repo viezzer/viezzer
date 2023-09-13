@@ -1,4 +1,4 @@
-<h1 align="center">Helo! I'm Eduardo</h1>
+<h1 align="center">Hello! I'm Eduardo</h1>
 
 - 📫 E-mail **eduviezzer@gmail.com**
 
