@@ -1,5 +1,3 @@
-<h1 align="center">Hello! I'm Eduardo</h1>
-
 - 📫 E-mail **eduviezzer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
